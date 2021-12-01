@@ -6,6 +6,8 @@ An Operating System to be built from the ground up with RISC V hardware.
 - Ardaku - A unikernel system to link to and run on novusk. Sandboxed environment for apps to run without a user/kernel divide. Executes virtual code that gets converted to code on Novusk/RV.
 - Carbon - The software suite
 
+![ArcOS Design](res/ArcOS-diagram.png)
+
 ## Style & Layout
 - Submodules for major things
 - Be as clear as possible, add a 'doc' file to each dir to describe its contents. LATER: use a doc generator to compile html
