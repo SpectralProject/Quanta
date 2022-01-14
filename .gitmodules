@@ -1,9 +1,0 @@
-[submodule "novusk"]
-	path = novusk
-	url = git@github.com:Ardaku-Arc/novusk.git
-[submodule "ardaku"]
-	path = ardaku
-	url = git@github.com:Ardaku-Arc/ardaku.git
-[submodule "Carbon"]
-	path = Carbon
-	url = git@github.com:Ardaku-Arc/Carbon.git
