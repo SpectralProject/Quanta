@@ -1,0 +1,8 @@
+[submodule "Carbon"]
+	path = Carbon
+	url = git@github.com:SpectralProject/Carbon.git
+	branch = main
+[submodule "Neutron"]
+	path = Neutron
+	url = git@github.com:SpectralProject/Neutron.git
+	branch = main
