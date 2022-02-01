@@ -1,10 +1,10 @@
-# ArcOS
+# Quanta
 An Operating System to be built from the ground up with RISC V hardware. Supports riscv and arm with first class riscv support.
 
 ## Design
 - Silicon Spectrum / Spectro Silicon - Hardware Suite. 
 - Neutron - Kernel. Neutrons are at the centre of all great atoms.
-- Carbon - The software suite. Carbon gives the kernel life.
+- Carbon Software - The software suite. Carbon gives the kernel life.
 
 ## Style & Layout
 - Submodules for major things
