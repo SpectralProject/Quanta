@@ -1,6 +1,9 @@
 # Quanta
 An Operating System to be built from the ground up with RISC V hardware. Supports riscv and arm with first class riscv support.
 
+## Purpose of repo
+- be a place to collect all the deps of a working full OS like gnu linux
+
 ## Design
 - Silicon Spectrum / Spectro Silicon - Hardware Suite. 
 - Neutron - Kernel. Neutrons are at the centre of all great atoms.
